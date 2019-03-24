@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iehieshir.planetjitsu.com/sitemap.xml
